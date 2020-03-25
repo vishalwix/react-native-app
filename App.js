@@ -13,7 +13,7 @@ const instructions = Platform.select({
   'worldwide and giving you an amazing lead in your business',
   android: 'Bringing your brand online, \n' +
   'automating the process, caterring your clients \n' + 
-  'worldwide and giving you an amazing lead in your business',
+  'worldwide and giving you an amazing lead in your businesss',
 });
 
 export default class App extends Component {
